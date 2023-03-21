@@ -9,10 +9,5 @@ function trocaImagem(imagem){
     imgIphone.src = imagem
 }
 
-function linkPagina (link){
-    
-}
-
-
 
 
