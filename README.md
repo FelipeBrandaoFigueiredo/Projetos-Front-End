@@ -1,2 +1,2 @@
 ## Projetos - Front End
-Aqui tenho alguns projetos que fiz para aprender um pouco sobre o desenvolvimento Front End.
+Projetos feitos com o intuito de er meu primeiro contato com códigos, com base no desenvolvimento Front End!
